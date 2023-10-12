@@ -1,4 +1,4 @@
-PS C:\Users\user\OneDrive\Escritorio\Test Backend Java\Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process ----> (Tener en cuenta si se utiliza sistema operativo de Windows, ejecutar
+Test Backend Java\Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process ----> (Tener en cuenta si se utiliza sistema operativo de Windows, ejecutar
 primero este comando )
 Test Backend Java\venv\Scripts> .\activate
 --------------------------------------------------------------------------------
